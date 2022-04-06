@@ -1,10 +1,10 @@
 # Pathon入门的语法
 
-## 入门清单
-1.【基础语法和功能】[宾夕法尼亚大学Python课堂ppt]()
-2. [Python 101]（https://python101.pythonlibrary.org/）
+## Python基础-[语法和功能】[thinkpython.pdf](https://github.com/adamli-86/Python101/files/8422954/thinkpython.pdf)
 
-2. 常用的基础包
+1. [宾夕法尼亚大学Python课堂ppt]()
+2. [Python 101](https://python101.pythonlibrary.org) 
+3. 常用的基础包
  - 线性代数库【Numpy】
  - 数据分析库【Pandas】
 
