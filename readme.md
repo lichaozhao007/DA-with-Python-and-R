@@ -1,7 +1,8 @@
 # Pathon入门的语法
 
 ## 入门清单
-1.【基础语法和功能】宾夕法尼亚大学的教授课堂的ppt
+1.【基础语法和功能】[宾夕法尼亚大学Python课堂ppt]()
+2. [Python 101]（https://python101.pythonlibrary.org/）
 
 2. 常用的基础包
  - 线性代数库【Numpy】
