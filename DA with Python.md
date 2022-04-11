@@ -1,5 +1,6 @@
 
-# Pathon入门
+# Pathon进行数据分析 （Data Analysis with Python）
+
 ## 教程手册
 1. Python入门 
   - [Python 101](https://python101.pythonlibrary.org) 
